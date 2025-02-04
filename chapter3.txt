@@ -1,3 +1,7 @@
 Chapter 3
 
+<<<<<<< HEAD
 updated
+=======
+updated from second
+>>>>>>> second
